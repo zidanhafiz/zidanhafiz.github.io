@@ -1,0 +1,25 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+.card {
+  width: 18rem;
+  margin-bottom: 5rem;
+}
+
+#projects .row .col-md-4 {
+  display: flex;
+  justify-content: center;
+}
+section {
+  padding-top: 6rem;
+}
+
+footer {
+  padding: 1em;
+}
